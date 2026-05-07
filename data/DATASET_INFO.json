@@ -1,0 +1,35 @@
+{
+  "file": "repro_hubble600_minimal/data/sampled_targets_hubble600.csv",
+  "rows": 600,
+  "dup_counts": {
+    "0": 100,
+    "1": 100,
+    "4": 100,
+    "16": 100,
+    "64": 100,
+    "256": 100
+  },
+  "columns": [
+    "pairing_key",
+    "dataset_name",
+    "dataset_config",
+    "source_split",
+    "duplication_count",
+    "source_id",
+    "source_title",
+    "source_meta",
+    "source_hash",
+    "target_len",
+    "span_slot",
+    "target_start_token_idx",
+    "target_end_token_idx",
+    "target_text",
+    "target_token_ids",
+    "half_prefix_len",
+    "half_suffix_len",
+    "prefix_mode",
+    "natural_prefix_fracs",
+    "selected_prefix_lens"
+  ],
+  "sha256": "55539790aca3e14fee19fd028d979bb68fe6cd6888f7b3e2676f518d11816855"
+}
